@@ -6,9 +6,9 @@ Description: Interactive word-guessing game with graphical interface
 Technologies: Tkinter, PIL (Python Imaging Library), Random word generation
 
 Features:
-Graphical user interface
-Multiple word lists
-Interactive letter guessing
+Graphical user interface,
+Multiple word lists,
+Interactive letter guessing,
 Visual game state tracking
 
 Dependencies: tkinter & pillow
@@ -22,11 +22,10 @@ Technologies: Tkinter (GUI), Requests (Web scraping), Webbrowser, Text-to-speech
 
 
 Features:
-
-News category selection
-Headline browsing
-Text-to-speech headline reading
-Direct links to news sources
+News category selection,
+Headline browsing,
+Text-to-speech headline reading,
+Direct links to news sources,
 Weather and India news shortcuts
 
 
