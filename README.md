@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjalihr
-
-Python Projects Overview
+<br>
+Python Projects Overview<br>
 1. Hangman Game
 
 Description: Interactive word-guessing game with graphical interface
